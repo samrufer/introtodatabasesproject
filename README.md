@@ -1,4 +1,5 @@
-Introduction (Team, Project Description) 
+Introduction (Team, Project Description)
+
 Use Case for Rating System 
 Business Rules 
 EERD (full database) 
