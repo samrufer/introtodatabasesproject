@@ -1,17 +1,17 @@
-Introduction (Team, Project Description)
+# Introduction (Team, Project Description)
 
-Use Case for Rating System 
+# Use Case for Rating System 
 
-Business Rules 
+# Business Rules 
 
-EERD (full database) 
+# EERD (full database) 
 
-MySQL Queries 
+# MySQL Queries 
 
-Stored Procedure 
+# Stored Procedure 
 
-Web/App Implementation (Optional) or Description of Future Work 
+# Web/App Implementation (Optional) or Description of Future Work 
 
-MySQL dump 
+# MySQL dump 
 
-PPT Video (link)
+# PPT Video (link)
