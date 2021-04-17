@@ -5,7 +5,7 @@ Our group has four members which are currently working on and actively developin
 # Use Case for Rating System 
 
 # Business Rules 
-
+The system is fairly straight forward and supports three different user roles. The first is the student. The student has the ability to place orders. They have a variety of options to choose from and can select any of the supported restaurants they desire. The second user role is that of the driver. The driver has the ability to view active orders and select them if they so choose. The driver’s role is to act as the intermediate party between the student and the restaurant. Finally, the last user is the restaurant. The restaurant provides the food for sale and gives the students options to choose from as far as what they are able to eat.
 # EERD (full database) 
 
 # MySQL Queries 
