@@ -6,8 +6,7 @@ Our group has four members which are currently working on and actively developin
 
 # Use Case for Rating System 
 
-![Ratings Use Case](https://user-images.githubusercontent.com/61239242/115154132-4ecb4a80-a047-11eb-95bb-a19a9aeb4c99.png)
-
+<img width="770" alt="Screen Shot 2021-04-18 at 1 04 35 PM" src="https://user-images.githubusercontent.com/61239242/115154196-a1a50200-a047-11eb-84df-4c57ff57bdae.png">
 
 # Business Rules 
 
