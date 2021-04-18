@@ -10,7 +10,12 @@ Our group has four members which are currently working on and actively developin
 
 # Business Rules 
 
-The system is fairly straight forward and supports three different user roles. The first is the student. The student has the ability to place orders. They have a variety of options to choose from and can select any of the supported restaurants they desire. The second user role is that of the driver. The driver has the ability to view active orders and select them if they so choose. The driver’s role is to act as the intermediate party between the student and the restaurant. Finally, the last user is the restaurant. The restaurant provides the food for sale and gives the students options to choose from as far as what they are able to eat.
+The system is fairly straight forward and supports four different user roles. The first is the student. The student has the ability to place orders. They have a variety of options to choose from and can select any of the supported restaurants they desire. The second user role is that of the driver. The driver has the ability to view active orders and select them if they so choose. The driver’s role is to act as the intermediate party between the student and the restaurant. The next user role is the restaurant. The restaurant provides the food for sale and gives the students options to choose from as far as what they are able to eat. Last, we have the admin role which keeps watch over the entire rating system to ensure all parties are holding up there end of the transaction. 
+
+## Rating System Rules
+
+The rating system is absolutely essential for the overall business to becomes successful and there needs to be something holding each party responsible. The student has the largest impact on the system as what they say really determines the overall success. Each student upon completion of receiving the order has the ability to grade both the food quality as well as the efficiency of the driver. This will be fairly straight forward as they will give a standard 1-5 ratings on how each party performed. In addition, they will have the ability to leave a review of both the driver and the restaurant which will allow future students to see how past transactions with various restaurants and drivers have gone. The last role that has access to this data is the admin. The admin plays a crucial role in ensuring that transactions consistently run smoothly. Thus admin will keep a close eye on all reviews and will remove those parties that are consistently not meeting expectations. 
+
 
 # EERD (full database) 
 
