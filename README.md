@@ -18,6 +18,8 @@ The rating system is absolutely essential for the overall business to becomes su
 
 # EERD (full database) 
 
+<img width="923" alt="Screen Shot 2021-04-18 at 10 26 31 PM" src="https://user-images.githubusercontent.com/61239242/115173862-2a4a8f00-a096-11eb-9692-b6765c162aff.png">
+
 # MySQL Queries 
 
 # Stored Procedure 
