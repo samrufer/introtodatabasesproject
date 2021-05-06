@@ -22,9 +22,7 @@ The rating system is absolutely essential for the overall business to becomes su
 
 # MySQL Queries 
 
-# Stored Procedure 
-
-# Web/App Implementation (Optional) or Description of Future Work 
+# Stored Procedure  
 
 # MySQL dump 
 
