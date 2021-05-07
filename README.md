@@ -74,6 +74,6 @@ The rating system is absolutely essential for the overall business to becomes su
 
 # MySQL dump 
 
-All query files can be found in the data folder.
+All query files can be found in the data folder. (SQL files not supported by github ReadME)
 
 # PPT Video (link)
