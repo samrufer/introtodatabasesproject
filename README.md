@@ -74,4 +74,6 @@ The rating system is absolutely essential for the overall business to becomes su
 
 # MySQL dump 
 
+All query files can be found in the data folder.
+
 # PPT Video (link)
