@@ -42,7 +42,33 @@ The rating system is absolutely essential for the overall business to becomes su
 
 <img width="132" alt="query2table" src="https://user-images.githubusercontent.com/61239242/117386881-aece4780-aeb5-11eb-89aa-8e637cba3b9b.png">
 
-# Stored Procedure  
+## Query 3
+
+### Code
+
+<img width="476" alt="query3" src="https://user-images.githubusercontent.com/61239242/117387482-facdbc00-aeb6-11eb-90b2-89884b3ddf02.png">
+
+### Table
+
+<img width="174" alt="query3table" src="https://user-images.githubusercontent.com/61239242/117387504-03be8d80-aeb7-11eb-8338-3397b87f4bb9.png">
+
+## Query 4
+
+### Code
+
+<img width="289" alt="query4" src="https://user-images.githubusercontent.com/61239242/117387529-0c16c880-aeb7-11eb-9886-a2813345df37.png">
+
+### Table
+
+<img width="514" alt="query4table" src="https://user-images.githubusercontent.com/61239242/117387565-1c2ea800-aeb7-11eb-869c-ed1d8b53df12.png">
+
+
+## Query 5
+
+### Code
+
+### Table
+
 
 # MySQL dump 
 
