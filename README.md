@@ -23,7 +23,13 @@ The rating system is absolutely essential for the overall business to becomes su
 # MySQL Queries 
 
 ## Query 1
+
+### Code
+
 <img width="479" alt="query1" src="https://user-images.githubusercontent.com/61239242/117386460-f56f7200-aeb4-11eb-8231-37442c4a0190.png">
+
+### Table
+
 <img width="127" alt="query1table" src="https://user-images.githubusercontent.com/61239242/117386468-f99b8f80-aeb4-11eb-8bf8-9f31560f7789.png">
 
 
