@@ -62,13 +62,15 @@ The rating system is absolutely essential for the overall business to becomes su
 
 <img width="514" alt="query4table" src="https://user-images.githubusercontent.com/61239242/117387565-1c2ea800-aeb7-11eb-869c-ed1d8b53df12.png">
 
-
 ## Query 5
 
 ### Code
 
+<img width="569" alt="query5" src="https://user-images.githubusercontent.com/61239242/117388086-11c0de00-aeb8-11eb-8923-a58eb7d291db.png">
+
 ### Table
 
+<img width="164" alt="query5table" src="https://user-images.githubusercontent.com/61239242/117388099-184f5580-aeb8-11eb-853b-b1fa2bf9ccac.png">
 
 # MySQL dump 
 
