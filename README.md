@@ -77,3 +77,5 @@ The rating system is absolutely essential for the overall business to becomes su
 All query files can be found in the data folder (SQL files not supported by github README).
 
 # PPT Video (link)
+
+[Database Final.pptx](https://github.com/samrufer/introtodatabasesproject/files/6448441/Database.Final.pptx)
